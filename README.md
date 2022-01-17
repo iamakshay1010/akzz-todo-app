@@ -19,7 +19,6 @@ step 5: click the link belove<br/>
 
 
 ## Technologies Used In project are as follows
-<img src="./login.PNG">
 
 ```
 =======
@@ -41,3 +40,8 @@ step 5: click the link belove<br/>
 7)morgan
 8)nodemon
 9)path
+
+## SCREENSHOTS
+<img src="./register.PNG">
+<img src="./login.PNG">
+<img src="./todolist.PNG">
