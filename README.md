@@ -19,7 +19,7 @@ step 5: click the link belove<br/>
 
 
 ## Technologies Used In project are as follows
-<img src="login.png">
+<img src="./login.PNG">
 
 ```
 =======
