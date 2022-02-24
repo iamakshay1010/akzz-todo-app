@@ -1,19 +1,14 @@
 # TODO APP
 
-this is the todo app where u can log in and make todo list
+sidebar with bottom tabs in react native
 <br/>
 
 
-## How to use this app
-steps:<br/>
-step 1:cd BACKEND<br/>
-step 2:node index.js<br/>
-step 3:cd FRONTEND<br/>
-step 4: npm start<br/>
-step 5: click the link belove<br/>
+
+step 5: click the link below to see demo<br/>
 <div align="center">
 <pre>
-<a href="http://localhost:3000/">http://localhost:3000/</a>
+<a href="https://youtu.be/ql-RPRZpbCU">https://youtu.be/ql-RPRZpbCU</a>
 </pre>
 </div>
 
@@ -22,24 +17,21 @@ step 5: click the link belove<br/>
 
 ```
 =======
-#TECHNOLOGY USED AT FRONTEND
+#TECHNOLOGY USED
 
-
- 1) REACT
- 2) AXIOS
- 3) CSS
- 4) HTML
-
-#TECHNOLOGY USED AT BACKEND
-1)bcrypt
-2)cors
-3)dotenv
-4)express
-5)helmet
-6)mongoose
-7)morgan
-8)nodemon
-9)path
+ "@react-navigation/drawer": "^6.3.1",
+    "@react-navigation/material-bottom-tabs": "^6.1.1",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/stack": "^6.1.1",
+    "expo": "~44.0.0",
+    "expo-status-bar": "~1.2.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-paper": "^4.11.2",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-vector-icons": "^9.1.0",
+    "react-native-web": "0.17.1"
 
 ## SCREENSHOTS
 ==================
